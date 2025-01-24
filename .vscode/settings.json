@@ -1,0 +1,20 @@
+{
+  // General.
+  "files.exclude": {},
+  "explorer.autoReveal": false,
+
+  // Window.
+  "window.zoomLevel": 2.5,
+
+  // Editor.
+  "editor.tabSize": 2,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Enhacements.
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on"
+}
